@@ -1,10 +1,10 @@
 {
- "uv":"no",
-"directlink": "https://play.google.com/store/apps/details?id=com.mm.fotlive",
- "playstore": "https://play.google.com/store/apps/details?id=com.mm.fotlive",
- "title": "ဘောပွဲကြည့်ရန်",
- "reason":"မပေါ် သေးပါက အပေါ် က FotLive ကို ၅ ချက်နှိပ်ပေးပါ(Click Fotlive 5 times)",
-  "dis":true,
+ "uv":"yes",
+"directlink": "https://raw.githubusercontent.com/ngpngp123/mads/main/app-armeabi-v7a-release.apk",
+ "playstore": "https://play.google.com/store/apps/details?id=com.akhattay.falubite",
+ "title": "Update Alert!",
+ "reason":"Fotlive App Version အသစ်ထွက်ပါပြီ",
+  "dis":false,
  "value": 5,
  
  
